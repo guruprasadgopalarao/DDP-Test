@@ -7,13 +7,13 @@ shinyUI(
     headerPanel("Weather prediction"),
   
     sidebarPanel(
-      textInput('city', "Please specify the name of the city and optionally its country code." , "New York,USA"),
+      textInput('city', "Please specify the name of a city and optionally its country code." , "New York,USA"),
       submitButton('Submit')
     ),
     mainPanel(
-        h4("You've search for:"),
+        h4("You have searched for:"),
         verbatimTextOutput("inputValue"),
-        h4('Available results:'),
+        h4('Available Weather Results are displayed below:'),
         verbatimTextOutput("prediction")
     )
   )
