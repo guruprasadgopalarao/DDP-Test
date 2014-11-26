@@ -17,10 +17,14 @@ This is an assignment for Reproducible Pitch
 --- .class #id 
 
 ## Slide 2
+Slide 2 of the assignment
+
 
 ## Slide 3
+Slide 3 of the assignment
 
 ## Slide 4
+Slide 4 of the assignment
 
 ## Slide 5
 
