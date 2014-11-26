@@ -11,22 +11,34 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## Assignment Slide 2
 
-This is an assignment for Reproducible Pitch 
---- .class #id 
+This is an assignment for Reproducible Pitch
 
-## Slide 2
-Slide 2 of the assignment
+Application uses the OpenWeatherMap API to get the temperature and humidity from its site
 
+Input City is the parameter which user inputs
 
-## Slide 3
+Temperature & Humity are returned by the API
+
+--- 
+
+## Assignment Slide 3
 Slide 3 of the assignment
 
-## Slide 4
+Initial screen displays the input -> City
+
+Output on the right hand side displays the current state of Clouds, Temperature, Humidity, City & Country
+
+---
+
+## Assignment Slide 4
 Slide 4 of the assignment
 
-## Slide 5
+---
+
+## Assignment Slide 5
+Slide 5 of the assignment
 
 End of the presentation
 
